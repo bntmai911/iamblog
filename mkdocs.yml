@@ -62,5 +62,15 @@ copyright: |
 
 nav:
   - Home: index.md
-  - Java:
-      - Home: Java/introduction.md
+  - BE:
+      - Camunda Optimistic Locking: BE/CamundaOptimisticLocking.md
+  - FE:
+      - Angular Reactive form common mistakes: FE/ReactiveFormMistakes.md
+  - DevOps:
+      - Docker tutorial Angular + Spring boot application: DevOps/AngularSpringBootDocker.md
+  - Work's note:
+      - Regex Validation: Others/RegexEmailValidation.md
+  - Travel:
+      - Home: Travel/introduction.md
+  - Languages:
+      - Home: Languages/introduction.md
