@@ -1,6 +1,6 @@
 # Kinh nghiệm du lịch Zurich - Luzern Thuỵ sĩ
 
-Hi mọi người, tháng 9 năm ngoái mình đã rất may mắn khi có cơ hội đi làm onsite tại Thuỵ sĩ. Trong khoảng thời gian
+Hi mọi người, tháng 9 năm 2022 mình đã rất may mắn khi có cơ hội đi làm onsite tại Thuỵ sĩ. Trong khoảng thời gian
 2 tuần mình ở tại đây, mình đã có cơ hội ghé thăm 1 số địa điểm du lịch hết sức xinh đẹp ở Zurich và Luzern. Sau đây
 sẽ mình sẽ chia sẻ một số tips cho các bạn có ý định du lịch tự túc tại đất nước vô cùng xinh đẹp cũng như vô cùng đắt
 đỏ này nhé.
@@ -33,34 +33,32 @@ Nếu như bạn có ghé thăm tới điểm du lịch là thác Rheinfall thì
 Ngoài ra, khi đến Thuỵ sĩ, bạn sẽ luôn gặp những cửa hàng tiện lợi, những siêu thị mini của hai hãng lớn là Migros và COOP. Bạn hãy thử món Pain au chocolate mà người Thuỵ sĩ luôn tự hào ở trong cửa hàng bánh ở Migros nha. Để tiết kiệm chi phí thì khi mình đi công tác, trừ bữa tối ăn nhà hàng thì bữa sáng và bữa trưa mình đều mua đồ ăn ở Migros. Buổi sáng thì mình thường chọn những món ăn nhẹ như bánh ngọt, nước cam. Bữa trưa thì mình có thể ăn salad hoặc các món chiên. Đặc biệt, Thuỵ sĩ có một loại thức uống khá đặc biệt mà mình rất ghiền trong khoảng thời gian on-site. Nó chính là Rivella, một loại thức uống chiết xuất từ sữa nhưng không hề giống sữa, chua chua ngọt ngọt và có gas. Mình được nghe đồng nghiệp kể lại rằng vì trẻ em tại Thuỵ sĩ lười uống sữa nên họ đã tạo ra thức uống này để trẻ em uống sữa nhiều hơn.
 
 ## Du lịch và thăm quan
- Thuỵ sĩ là một đất nước xinh đẹp và có vô vàn điểm tham quan cho các bạn khám phá. Mình cũng chưa được đi nhiều nơi ở Thuỵ sĩ, chỉ lòng vòng khu vực Zurich và Luzern thôi. Đây là một số điểm tham quan mình đã được ghé qua và mình sẽ xếp hạng theo vẻ đẹp thiên nhiên và trải nghiệm của mình nha.
- - Du thuyền trên hồ Luzern đến Pilatus
- - Núi Pilatus
- - Thác Rhein
- - Rhein am stein
- - Phố cổ Zurich
- Sau đây là một số hình ảnh về chuyến du lịch của mìnhm, mời các bạn chiêm ngưỡng vẻ đẹp thiên nhiên hùng vĩ và đầy thơ mộng của đất nước Thuỵ Sĩ:
- <figure markdown>
-  ![Luzern city](../../images/luzern-city.JPEG){ width="300" }
-  <figcaption>Một ngày không nắng tại Luzern</figcaption>
-</figure>
+
+Thuỵ sĩ là một đất nước xinh đẹp và có vô vàn điểm tham quan cho các bạn khám phá. Mình cũng chưa được đi nhiều nơi ở Thuỵ sĩ, chỉ lòng vòng khu vực Zurich và Luzern thôi. Đây là một số điểm tham quan mình đã được ghé qua và mình sẽ xếp hạng theo vẻ đẹp thiên nhiên và trải nghiệm của mình nha.
+
+- Du thuyền trên hồ Luzern đến Pilatus
+- Núi Pilatus
+- Thác Rhein
+- Rhein am stein
+- Phố cổ Zurich
+Sau đây là một số hình ảnh về chuyến du lịch của mình, mời các bạn chiêm ngưỡng vẻ đẹp thiên nhiên hùng vĩ và đầy thơ mộng của đất nước Thuỵ Sĩ:
 <figure markdown>
-  ![Luzern lake](../../images/luzern-lake.jpg){ width="300" }
+  ![Luzern lake](../../images/luzern-lake.jpg){ width="500" align=center }
   <figcaption>Phong cảnh khi đi du thuyền trên hồ Luzern</figcaption>
 </figure>
 <figure markdown>
-  ![Pilatus mountain](../../images/pilatus.jpg){ width="300" }
+  ![Pilatus mountain](../../images/pilatus.jpg){ width="300" align=center }
   <figcaption>Đỉnh Pilatus bao quanh bởi mây mù</figcaption>
 </figure>
 <figure markdown>
-  ![Stein am rhein](../../images/stein-am-rhein.jpg){ width="300" }
+  ![Stein am rhein](../../images/stein-am-rhein.jpg){ width="300" align=center }
   <figcaption>Thị trấn Stein am Rhein kế dòng sông Rhein</figcaption>
 </figure>
 <figure markdown>
-  ![Rhein fall](../../images/rhein-fall.jpg){ width="300" }
+  ![Rhein fall](../../images/rhein-fall.jpg){ width="500" align=center }
   <figcaption>Thác Rhein hùng vĩ, biên giới tự nhiên giữa Đức và Thuỵ sĩ</figcaption>
 </figure>
 <figure markdown>
-  ![Zurich](../../images/zurich.jpg){ width="300" }
+  ![Zurich](../../images/zurich.jpg){ width="500" align=center }
   <figcaption>Phố cổ Zurich</figcaption>
 </figure>
